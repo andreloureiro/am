@@ -1,0 +1,2817 @@
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for src/cljs/am/core.cljs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.239 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling resources/public/js/out/om/next/cache.cljs
+Compiling resources/public/js/out/clojure/zip.cljs
+Compiling resources/public/js/out/om/next/impl/parser.cljc
+Compiling resources/public/js/out/om/util.cljs
+Compiling resources/public/js/out/om/dom.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljsjs.react, could not locate cljsjs/react.cljs, cljsjs/react.cljc, or Closure namespace "cljsjs.react" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.792 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling resources/public/js/out/om/dom.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljsjs.react, could not locate cljsjs/react.cljs, cljsjs/react.cljc, or Closure namespace "cljsjs.react" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.091 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling resources/public/js/out/om/dom.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljsjs.react, could not locate cljsjs/react.cljs, cljsjs/react.cljc, or Closure namespace "cljsjs.react" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.084 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling resources/public/js/out/om/dom.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljsjs.react, could not locate cljsjs/react.cljs, cljsjs/react.cljc, or Closure namespace "cljsjs.react" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.123 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling resources/public/js/out/om/dom.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljsjs.react, could not locate cljsjs/react.cljs, cljsjs/react.cljc, or Closure namespace "cljsjs.react" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.088 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling resources/public/js/out/om/dom.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljsjs.react, could not locate cljsjs/react.cljs, cljsjs/react.cljc, or Closure namespace "cljsjs.react" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.127 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling resources/public/js/out/om/dom.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljsjs.react, could not locate cljsjs/react.cljs, cljsjs/react.cljc, or Closure namespace "cljsjs.react" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.106 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling resources/public/js/out/om/dom.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljsjs.react, could not locate cljsjs/react.cljs, cljsjs/react.cljc, or Closure namespace "cljsjs.react" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.075 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling resources/public/js/out/om/dom.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljsjs.react, could not locate cljsjs/react.cljs, cljsjs/react.cljc, or Closure namespace "cljsjs.react" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.077 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.275 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.245 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.172 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.332 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.196 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.192 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.196 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.214 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.193 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.194 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.197 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.233 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.234 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.207 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+WARNING: post-query at line 9 is being replaced at line 16 src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+WARNING: post-query at line 9 is being replaced at line 16 src/cljs/am/core.cljs
+WARNING: Wrong number of args (0) passed to am.core/post-query at line 48 src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.297 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+WARNING: Wrong number of args (0) passed to am.core/post-query at line 43 src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.246 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.191 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.225 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.211 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.188 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.286 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.226 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.196 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.191 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.197 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.205 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.352 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+WARNING: Use of undeclared Var am.core/response at line 18 src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.397 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.237 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.237 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.205 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.214 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.221 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.226 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.2 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.206 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+WARNING: Use of undeclared Var am.core/ast at line 50 src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.245 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /home/andre/Projects/ClojureScript/am/src/cljs/am/core.cljs, line 31, column 29
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.136 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+WARNING: Use of undeclared Var am.core/ast at line 51 src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.261 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.222 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.234 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+WARNING: Use of undeclared Var am.core/div at line 38 src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.397 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.304 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.281 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.261 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.341 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.317 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.243 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.309 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.287 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.253 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.263 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.241 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.239 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.252 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.245 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.245 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.28 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.253 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.263 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.256 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.254 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.241 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.293 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.275 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Invalid token: :category: on file /home/andre/Projects/ClojureScript/am/src/cljs/am/core.cljs, line 69, column 41
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Invalid token: :category: on file /home/andre/Projects/ClojureScript/am/src/cljs/am/core.cljs, line 69, column 41
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Invalid token: :category: on file /home/andre/Projects/ClojureScript/am/src/cljs/am/core.cljs, line 69, column 41
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.321 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Invalid token: :category: on file /home/andre/Projects/ClojureScript/am/src/cljs/am/core.cljs, line 69, column 41
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Invalid token: :category: on file /home/andre/Projects/ClojureScript/am/src/cljs/am/core.cljs, line 69, column 41
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Invalid token: :category: on file /home/andre/Projects/ClojureScript/am/src/cljs/am/core.cljs, line 69, column 41
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+WARNING: Use of undeclared Var am.core/ListItem at line 43 src/cljs/am/core.cljs
+WARNING: Use of undeclared Var am.core/ListItem at line 48 src/cljs/am/core.cljs
+WARNING: Use of undeclared Var am.core/ListItem at line 48 src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Invalid token: :category: on file /home/andre/Projects/ClojureScript/am/src/cljs/am/core.cljs, line 69, column 41
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.266 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+WARNING: Use of undeclared Var am.core/ListItem at line 43 src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Invalid token: :category: on file /home/andre/Projects/ClojureScript/am/src/cljs/am/core.cljs, line 69, column 41
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.244 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Invalid token: :category: on file /home/andre/Projects/ClojureScript/am/src/cljs/am/core.cljs, line 69, column 41
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.157 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Invalid token: :category: on file /home/andre/Projects/ClojureScript/am/src/cljs/am/core.cljs, line 80, column 41
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.155 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.281 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.282 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.266 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Invalid token: : on file /home/andre/Projects/ClojureScript/am/src/cljs/am/core.cljs, line 107, column 19
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.196 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.271 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.298 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.313 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.328 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.317 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.295 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.313 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.311 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.296 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.301 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.302 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.304 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.312 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.31 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.307 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.312 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.297 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.305 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.301 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.303 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.301 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.34 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.303 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.315 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.306 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.299 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.289 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.294 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.305 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.301 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.302 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.305 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.298 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.297 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.297 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.302 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.308 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.302 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.313 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.302 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.31 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.31 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.298 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.301 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.307 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.308 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.142 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.184 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/state.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.144 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/state.cljs
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.144 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/state.cljs
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.141 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+WARNING: Use of undeclared Var am.remote/XhrIo at line 7 src/cljs/am/remote.cljs
+WARNING: No such namespace: transit, could not locate transit.cljs, transit.cljc, or Closure namespace "" at line 10 src/cljs/am/remote.cljs
+WARNING: Use of undeclared Var transit/read at line 10 src/cljs/am/remote.cljs
+WARNING: No such namespace: transit, could not locate transit.cljs, transit.cljc, or Closure namespace "" at line 10 src/cljs/am/remote.cljs
+WARNING: Use of undeclared Var transit/reader at line 10 src/cljs/am/remote.cljs
+WARNING: No such namespace: transit, could not locate transit.cljs, transit.cljc, or Closure namespace "" at line 14 src/cljs/am/remote.cljs
+WARNING: Use of undeclared Var transit/write at line 14 src/cljs/am/remote.cljs
+WARNING: No such namespace: transit, could not locate transit.cljs, transit.cljc, or Closure namespace "" at line 14 src/cljs/am/remote.cljs
+WARNING: Use of undeclared Var transit/writer at line 14 src/cljs/am/remote.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.327 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+WARNING: Use of undeclared Var am.remote/XhrIo at line 8 src/cljs/am/remote.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.211 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.15 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.265 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/list-item at line 10 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/this at line 11 src/cljs/am/components/app.cljs
+WARNING: No such namespace: promotion, could not locate promotion.cljs, promotion.cljc, or Closure namespace "" at line 23 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var promotion/list at line 23 src/cljs/am/components/app.cljs
+WARNING: No such namespace: category, could not locate category.cljs, category.cljc, or Closure namespace "" at line 23 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var category/list at line 23 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/App at line 14 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/App at line 14 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/App at line 14 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/App at line 14 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/CategoryItem at line 17 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/PromotionItem at line 18 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/App at line 14 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/CategoryItem at line 17 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/PromotionItem at line 18 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/App at line 14 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/App at line 14 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/App at line 14 src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+WARNING: Use of undeclared Var am.core/App at line 22 src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/cljs/am/components/promotion_item.cljs
+Compiling src/cljs/am/components/category_item.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.638 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: Referred var am.components.app/App does not exist on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.1 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: Referred var am.components.app/App does not exist on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.091 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.387 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/list-item at line 10 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/this at line 11 src/cljs/am/components/app.cljs
+WARNING: No such namespace: promotion, could not locate promotion.cljs, promotion.cljc, or Closure namespace "" at line 22 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var promotion/list at line 22 src/cljs/am/components/app.cljs
+WARNING: No such namespace: category, could not locate category.cljs, category.cljc, or Closure namespace "" at line 22 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var category/list at line 22 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/CategoryItem at line 16 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/PromotionItem at line 17 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/CategoryItem at line 16 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/PromotionItem at line 17 src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.458 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Reading analysis cache for src/cljs/am/components/promotion_item.cljs
+Reading analysis cache for src/cljs/am/components/category_item.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: Referred var am.components.promotion-item/promotion does not exist on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.121 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: Referred var am.components.promotion-item/promotion does not exist on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.087 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/this at line 13 src/cljs/am/components/app.cljs
+WARNING: No such namespace: promotion, could not locate promotion.cljs, promotion.cljc, or Closure namespace "" at line 24 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var promotion/list at line 24 src/cljs/am/components/app.cljs
+WARNING: No such namespace: category, could not locate category.cljs, category.cljc, or Closure namespace "" at line 24 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var category/list at line 24 src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.381 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var am.components.app/this at line 13 src/cljs/am/components/app.cljs
+WARNING: Wrong number of args (2) passed to am.components.app/app-template at line 24 src/cljs/am/components/app.cljs
+WARNING: No such namespace: promotion, could not locate promotion.cljs, promotion.cljc, or Closure namespace "" at line 24 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var promotion/list at line 24 src/cljs/am/components/app.cljs
+WARNING: No such namespace: category, could not locate category.cljs, category.cljc, or Closure namespace "" at line 24 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var category/list at line 24 src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.377 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+WARNING: Wrong number of args (2) passed to am.components.app/app-template at line 24 src/cljs/am/components/app.cljs
+WARNING: No such namespace: promotion, could not locate promotion.cljs, promotion.cljc, or Closure namespace "" at line 24 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var promotion/list at line 24 src/cljs/am/components/app.cljs
+WARNING: No such namespace: category, could not locate category.cljs, category.cljc, or Closure namespace "" at line 24 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var category/list at line 24 src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.378 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+WARNING: No such namespace: promotion, could not locate promotion.cljs, promotion.cljc, or Closure namespace "" at line 24 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var promotion/list at line 24 src/cljs/am/components/app.cljs
+WARNING: No such namespace: category, could not locate category.cljs, category.cljc, or Closure namespace "" at line 24 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var category/list at line 24 src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.34 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+WARNING: No such namespace: promotion, could not locate promotion.cljs, promotion.cljc, or Closure namespace "" at line 24 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var promotion/list at line 24 src/cljs/am/components/app.cljs
+WARNING: No such namespace: category, could not locate category.cljs, category.cljc, or Closure namespace "" at line 24 src/cljs/am/components/app.cljs
+WARNING: Use of undeclared Var category/list at line 24 src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.372 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.195 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.363 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/state.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.345 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/menu_item.cljs
+WARNING: Bad method signature in protocol implementation, om/IQuery query does not declare arity 0 at line 6 src/cljs/am/components/menu_item.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR:  at line 6 src/cljs/am/components/menu_item.cljs on file src/cljs/am/components/menu_item.cljs, line 6, column 1
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.163 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/menu_item.cljs
+WARNING: Bad method signature in protocol implementation, om/IQuery query does not declare arity 0 at line 6 src/cljs/am/components/menu_item.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR:  at line 6 src/cljs/am/components/menu_item.cljs on file src/cljs/am/components/menu_item.cljs, line 6, column 1
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.146 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/menu_item.cljs
+WARNING: Bad method signature in protocol implementation, om/IQuery query does not declare arity 0 at line 6 src/cljs/am/components/menu_item.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR:  at line 6 src/cljs/am/components/menu_item.cljs on file src/cljs/am/components/menu_item.cljs, line 6, column 1
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.147 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /home/andre/Projects/ClojureScript/am/src/cljs/am/components/app.cljs, line 20, column 22
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.1 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/cljs/am/components/menu_item.cljs
+WARNING: Bad method signature in protocol implementation, om/IQuery query does not declare arity 0 at line 6 src/cljs/am/components/menu_item.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR:  at line 6 src/cljs/am/components/menu_item.cljs on file src/cljs/am/components/menu_item.cljs, line 6, column 1
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.209 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/cljs/am/components/menu_item.cljs
+WARNING: Bad method signature in protocol implementation, om/IQuery query does not declare arity 0 at line 6 src/cljs/am/components/menu_item.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR:  at line 6 src/cljs/am/components/menu_item.cljs on file src/cljs/am/components/menu_item.cljs, line 6, column 1
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.224 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/menu_item.cljs
+WARNING: Bad method signature in protocol implementation, om/IQuery query does not declare arity 0 at line 6 src/cljs/am/components/menu_item.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR:  at line 6 src/cljs/am/components/menu_item.cljs on file src/cljs/am/components/menu_item.cljs, line 6, column 1
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.145 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/menu_item.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/components/menu_item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.198 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+WARNING: Wrong number of args (3) passed to am.components.app/app-template at line 26 src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.303 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.199 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/state.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: Too few arguments to if at line 22 src/cljs/am/parser.cljs on file src/cljs/am/parser.cljs, line 22, column 5
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.122 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+WARNING: Use of undeclared Var am.parser/ast at line 24 src/cljs/am/parser.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.328 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.229 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.223 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+WARNING: Use of undeclared Var am.core/post-query at line 14 src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.193 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/am.js" failed.
+[0mclojure.lang.ExceptionInfo: Only :as alias and :refer (names) options supported in :require; offending spec: [am.remote :refer] at line 1 src/cljs/am/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:566)
+    cljs.analyzer$basic_validate_ns_spec.invoke (analyzer.cljc:1698)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1739)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invoke (core.clj:636)
+    clojure.core$partial$fn__4533.doInvoke (core.clj:2512)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4553.invoke (core.clj:2622)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.boundedLength (RT.java:1735)
+    clojure.lang.RestFn.applyTo (RestFn.java:130)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval2949$fn__2951$fn__2956.invoke (analyzer.cljc:1926)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval2949$fn__2951.invoke (analyzer.cljc:1909)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+    cljs.analyzer$analyze_seq_STAR_.invoke (analyzer.cljc:2390)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2395)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2416)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2525)
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.026 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Reading analysis cache for src/cljs/am/remote.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.194 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.165 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.166 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.218 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.169 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: let requires an even number of forms in binding vector at line 9 src/cljs/am/remote.cljs on file src/cljs/am/remote.cljs, line 9, column 14
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.166 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.215 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.206 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.214 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/remote.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/remote.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.261 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.206 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/promotion_item.cljs
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/promotion_item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.283 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/promotion_item.cljs
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/promotion_item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling resources/public/js/out/schema/utils.cljs
+Compiling resources/public/js/out/schema/spec/core.cljs
+Compiling resources/public/js/out/schema/spec/collection.cljs
+Compiling resources/public/js/out/schema/spec/variant.cljs
+Compiling resources/public/js/out/schema/spec/leaf.cljs
+Compiling resources/public/js/out/schema/core.cljs
+Compiling resources/public/js/out/bidi/bidi.cljc
+Compiling resources/public/js/out/bidi/router.cljs
+Compiling resources/public/js/out/pushy/core.cljs
+Compiling src/cljs/am/routing.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 3.109 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/state.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/parser.cljs
+Compiling src/cljs/am/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.239 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 12 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 12 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var am.routing/reconciler at line 12 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.205 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.23 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 14 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 14 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.219 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 14 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 14 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.216 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 14 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 14 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 14 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 14 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 14 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 14 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.234 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 14 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 14 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.223 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 14 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 14 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.233 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 14 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 14 src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.309 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 14 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 14 src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.288 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 14 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 14 src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/current_view.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/components/current_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.216 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/current_view.cljs
+notifying browser that file changed:  out/am/components/current_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.193 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/current_view.cljs
+notifying browser that file changed:  out/am/components/current_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/current_view.cljs
+notifying browser that file changed:  out/am/components/current_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.193 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/current_view.cljs
+notifying browser that file changed:  out/am/components/current_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/current_view.cljs
+notifying browser that file changed:  out/am/components/current_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.31 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/current_view.cljs
+notifying browser that file changed:  out/am/components/current_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.207 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/current_view.cljs
+WARNING: Use of undeclared Var am.components.current-view/set-current-view at line 21 src/cljs/am/components/current_view.cljs
+notifying browser that file changed:  out/am/components/current_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.271 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/current_view.cljs
+WARNING: Use of undeclared Var am.components.current-view/set-current-view at line 21 src/cljs/am/components/current_view.cljs
+notifying browser that file changed:  out/am/components/current_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.232 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 14 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 14 src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 13 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 13 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 14 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 14 src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.275 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.215 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+Compiling src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/utils.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/spec/core.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/spec/collection.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/spec/variant.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/spec/leaf.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/core.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/bidi/bidi/1.25.0/bidi-1.25.0.jar!/bidi/bidi.cljc
+Reading analysis cache for jar:file:/home/andre/.m2/repository/bidi/bidi/1.25.0/bidi-1.25.0.jar!/bidi/router.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/kibu/pushy/0.3.6/pushy-0.3.6.jar!/pushy/core.cljs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.49 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.226 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.206 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 11 src/cljs/am/core.cljs
+WARNING: Use of undeclared Var om/reconciler at line 11 src/cljs/am/core.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 19 src/cljs/am/core.cljs
+WARNING: Use of undeclared Var om/add-root! at line 19 src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/utils.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/spec/core.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/spec/collection.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/spec/variant.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/spec/leaf.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/core.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/bidi/bidi/1.25.0/bidi-1.25.0.jar!/bidi/bidi.cljc
+Reading analysis cache for jar:file:/home/andre/.m2/repository/bidi/bidi/1.25.0/bidi-1.25.0.jar!/bidi/router.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/kibu/pushy/0.3.6/pushy-0.3.6.jar!/pushy/core.cljs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.495 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+WARNING: Use of undeclared Var am.core/parser at line 12 src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.294 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.224 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/core.cljs
+Compiling src/cljs/am/routing.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.223 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/utils.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/spec/core.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/spec/collection.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/spec/variant.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/spec/leaf.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/prismatic/schema/1.0.3/schema-1.0.3.jar!/schema/core.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/bidi/bidi/1.25.0/bidi-1.25.0.jar!/bidi/bidi.cljc
+Reading analysis cache for jar:file:/home/andre/.m2/repository/kibu/pushy/0.3.6/pushy-0.3.6.jar!/pushy/core.cljs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.361 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/routing.cljs
+Reading analysis cache for jar:file:/home/andre/.m2/repository/bidi/bidi/1.25.0/bidi-1.25.0.jar!/bidi/router.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.198 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.237 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compiling src/cljs/am/components/app.cljs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.238 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR:  at line 1 src/cljs/am/routing.cljs on file src/cljs/am/routing.cljs, line 1, column 1
+[32mSuccessfully compiled "resources/public/js/am.js" in 1.057 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/am.js" failed.
+[0mANALYSIS ERROR: Referred var am.routing/navigate-to! does not exist on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.471 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.405 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.routing/history at line 23 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.routing/set-view! at line 18 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var am.routing/routes at line 18 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 15 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/app-root at line 15 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var am.routing/reconciler at line 15 src/cljs/am/routing.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 16 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var om/transact! at line 16 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var am.routing/routes at line 18 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.333 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.routing/reconciler at line 15 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var am.routing/routes at line 18 src/cljs/am/routing.cljs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.292 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.routing/reconciler at line 15 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.327 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.246 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.routing/reconciler at line 15 src/cljs/am/routing.cljs
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.261 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.253 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/am.js" failed.
+[0mclojure.lang.ExceptionInfo: Library name must be specified as a symbol in :require / :require-macros; offending spec: [] at line 1 src/cljs/am/components/app.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:566)
+    cljs.analyzer$basic_validate_ns_spec.invoke (analyzer.cljc:1693)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1739)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invoke (core.clj:636)
+    clojure.core$partial$fn__4533.doInvoke (core.clj:2512)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4553.invoke (core.clj:2622)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.boundedLength (RT.java:1735)
+    clojure.lang.RestFn.applyTo (RestFn.java:130)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval2949$fn__2951$fn__2956.invoke (analyzer.cljc:1926)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval2949$fn__2951.invoke (analyzer.cljc:1909)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+    cljs.analyzer$analyze_seq_STAR_.invoke (analyzer.cljc:2390)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2395)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2416)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2525)
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.038 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.398 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.299 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/promotion_item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.296 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.169 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.173 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.183 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.166 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Wrong number of args (5) passed to :require at line 3 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var am.routing/bidi at line 3 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var am.routing/om at line 4 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var am.routing/set-location! at line 5 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var am.routing/start-router! at line 5 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var am.routing/reconciler at line 6 src/cljs/am/routing.cljs
+WARNING: Use of undeclared Var am.routing/pushy at line 7 src/cljs/am/routing.cljs
+[31mCompiling "resources/public/js/am.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/andre/Projects/ClojureScript/am/src/cljs/am/routing.cljs, line 7, column 37
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.232 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 1.409 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.151 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.164 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+#error {
+ :cause Could not locate am/macros__init.class or am/macros.clj on classpath.
+ :via
+ [{:type clojure.lang.ExceptionInfo
+   :message failed compiling file:src/cljs/am/core.cljs
+   :data {:file #object[java.io.File 0x3d396420 src/cljs/am/core.cljs]}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type clojure.lang.ExceptionInfo
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath. in file src/cljs/am/core.cljs
+   :data {:tag :cljs/analysis-error}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type java.io.FileNotFoundException
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath.
+   :at [clojure.lang.RT load RT.java 449]}]
+ :trace
+ [[clojure.lang.RT load RT.java 449]
+  [clojure.lang.RT load RT.java 412]
+  [clojure.core$load$fn__5448 invoke core.clj 5866]
+  [clojure.core$load doInvoke core.clj 5865]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [clojure.core$load_one invoke core.clj 5671]
+  [clojure.core$load_lib$fn__5397 invoke core.clj 5711]
+  [clojure.core$load_lib doInvoke core.clj 5710]
+  [clojure.lang.RestFn applyTo RestFn.java 142]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$load_libs doInvoke core.clj 5749]
+  [clojure.lang.RestFn applyTo RestFn.java 137]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$require doInvoke core.clj 5832]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [cljs.analyzer$ns_side_effects$fn__9152 invoke analyzer.cljc 2525]
+  [cljs.analyzer$ns_side_effects invoke analyzer.cljc 2524]
+  [cljs.analyzer$analyze_STAR_$fn__9200 invoke analyzer.cljc 2597]
+  [clojure.lang.PersistentVector reduce PersistentVector.java 333]
+  [clojure.core$reduce invoke core.clj 6518]
+  [cljs.analyzer$analyze_STAR_ invoke analyzer.cljc 2597]
+  [cljs.analyzer$analyze invoke analyzer.cljc 2612]
+  [cljs.compiler$emit_source invoke compiler.cljc 1237]
+  [cljs.compiler$compile_file_STAR_$fn__10656 invoke compiler.cljc 1288]
+  [cljs.compiler$with_core_cljs invoke compiler.cljc 1152]
+  [cljs.compiler$compile_file_STAR_ invoke compiler.cljc 1277]
+  [cljs.compiler$compile_file$fn__10679 invoke compiler.cljc 1357]
+  [cljs.compiler$compile_file invoke compiler.cljc 1336]
+  [cljs.closure$compile_file invoke closure.clj 437]
+  [cljs.closure$eval12444$fn__12445 invoke closure.clj 504]
+  [cljs.closure$eval12380$fn__12381$G__12369__12388 invoke closure.clj 394]
+  [cljs.closure$compile_task$fn__12534 invoke closure.clj 778]
+  [cljs.closure$compile_task invoke closure.clj 776]
+  [cljs.closure$parallel_compile_sources$fn__12540 invoke closure.clj 806]
+  [clojure.lang.AFn applyToHelper AFn.java 152]
+  [clojure.lang.AFn applyTo AFn.java 144]
+  [clojure.core$apply invoke core.clj 630]
+  [clojure.core$with_bindings_STAR_ doInvoke core.clj 1868]
+  [clojure.lang.RestFn invoke RestFn.java 425]
+  [clojure.lang.AFn applyToHelper AFn.java 156]
+  [clojure.lang.RestFn applyTo RestFn.java 132]
+  [clojure.core$apply invoke core.clj 634]
+  [clojure.core$bound_fn_STAR_$fn__4439 doInvoke core.clj 1890]
+  [clojure.lang.RestFn invoke RestFn.java 397]
+  [clojure.lang.AFn run AFn.java 22]
+  [java.util.concurrent.ThreadPoolExecutor runWorker ThreadPoolExecutor.java 1142]
+  [java.util.concurrent.ThreadPoolExecutor$Worker run ThreadPoolExecutor.java 617]
+  [java.lang.Thread run Thread.java 745]]}
+Compile sources, elapsed time: 3499.678411 msecs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 3.878 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var bidi.bidi/match-pair at line 360 resources/public/js/out/bidi/bidi.cljc
+WARNING: Use of undeclared Var bidi.bidi/unmatch-pair at line 376 resources/public/js/out/bidi/bidi.cljc
+#error {
+ :cause Could not locate am/macros__init.class or am/macros.clj on classpath.
+ :via
+ [{:type clojure.lang.ExceptionInfo
+   :message failed compiling file:src/cljs/am/core.cljs
+   :data {:file #object[java.io.File 0x11e74f67 src/cljs/am/core.cljs]}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type clojure.lang.ExceptionInfo
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath. in file src/cljs/am/core.cljs
+   :data {:tag :cljs/analysis-error}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type java.io.FileNotFoundException
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath.
+   :at [clojure.lang.RT load RT.java 449]}]
+ :trace
+ [[clojure.lang.RT load RT.java 449]
+  [clojure.lang.RT load RT.java 412]
+  [clojure.core$load$fn__5448 invoke core.clj 5866]
+  [clojure.core$load doInvoke core.clj 5865]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [clojure.core$load_one invoke core.clj 5671]
+  [clojure.core$load_lib$fn__5397 invoke core.clj 5711]
+  [clojure.core$load_lib doInvoke core.clj 5710]
+  [clojure.lang.RestFn applyTo RestFn.java 142]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$load_libs doInvoke core.clj 5749]
+  [clojure.lang.RestFn applyTo RestFn.java 137]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$require doInvoke core.clj 5832]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [cljs.analyzer$ns_side_effects$fn__9152 invoke analyzer.cljc 2525]
+  [cljs.analyzer$ns_side_effects invoke analyzer.cljc 2524]
+  [cljs.analyzer$analyze_STAR_$fn__9200 invoke analyzer.cljc 2597]
+  [clojure.lang.PersistentVector reduce PersistentVector.java 333]
+  [clojure.core$reduce invoke core.clj 6518]
+  [cljs.analyzer$analyze_STAR_ invoke analyzer.cljc 2597]
+  [cljs.analyzer$analyze invoke analyzer.cljc 2612]
+  [cljs.compiler$emit_source invoke compiler.cljc 1237]
+  [cljs.compiler$compile_file_STAR_$fn__10656 invoke compiler.cljc 1288]
+  [cljs.compiler$with_core_cljs invoke compiler.cljc 1152]
+  [cljs.compiler$compile_file_STAR_ invoke compiler.cljc 1277]
+  [cljs.compiler$compile_file$fn__10679 invoke compiler.cljc 1357]
+  [cljs.compiler$compile_file invoke compiler.cljc 1336]
+  [cljs.closure$compile_file invoke closure.clj 437]
+  [cljs.closure$eval12444$fn__12445 invoke closure.clj 504]
+  [cljs.closure$eval12380$fn__12381$G__12369__12388 invoke closure.clj 394]
+  [cljs.closure$compile_task$fn__12534 invoke closure.clj 778]
+  [cljs.closure$compile_task invoke closure.clj 776]
+  [cljs.closure$parallel_compile_sources$fn__12540 invoke closure.clj 806]
+  [clojure.lang.AFn applyToHelper AFn.java 152]
+  [clojure.lang.AFn applyTo AFn.java 144]
+  [clojure.core$apply invoke core.clj 630]
+  [clojure.core$with_bindings_STAR_ doInvoke core.clj 1868]
+  [clojure.lang.RestFn invoke RestFn.java 425]
+  [clojure.lang.AFn applyToHelper AFn.java 156]
+  [clojure.lang.RestFn applyTo RestFn.java 132]
+  [clojure.core$apply invoke core.clj 634]
+  [clojure.core$bound_fn_STAR_$fn__4439 doInvoke core.clj 1890]
+  [clojure.lang.RestFn invoke RestFn.java 397]
+  [clojure.lang.AFn run AFn.java 22]
+  [java.util.concurrent.ThreadPoolExecutor runWorker ThreadPoolExecutor.java 1142]
+  [java.util.concurrent.ThreadPoolExecutor$Worker run ThreadPoolExecutor.java 617]
+  [java.lang.Thread run Thread.java 745]]}
+Compile sources, elapsed time: 4302.458332 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 4.559 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.routing/reconciler at line 13 src/cljs/am/routing.cljs
+#error {
+ :cause Could not locate am/macros__init.class or am/macros.clj on classpath.
+ :via
+ [{:type clojure.lang.ExceptionInfo
+   :message failed compiling file:src/cljs/am/core.cljs
+   :data {:file #object[java.io.File 0x76cff3b6 src/cljs/am/core.cljs]}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type clojure.lang.ExceptionInfo
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath. in file src/cljs/am/core.cljs
+   :data {:tag :cljs/analysis-error}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type java.io.FileNotFoundException
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath.
+   :at [clojure.lang.RT load RT.java 449]}]
+ :trace
+ [[clojure.lang.RT load RT.java 449]
+  [clojure.lang.RT load RT.java 412]
+  [clojure.core$load$fn__5448 invoke core.clj 5866]
+  [clojure.core$load doInvoke core.clj 5865]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [clojure.core$load_one invoke core.clj 5671]
+  [clojure.core$load_lib$fn__5397 invoke core.clj 5711]
+  [clojure.core$load_lib doInvoke core.clj 5710]
+  [clojure.lang.RestFn applyTo RestFn.java 142]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$load_libs doInvoke core.clj 5749]
+  [clojure.lang.RestFn applyTo RestFn.java 137]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$require doInvoke core.clj 5832]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [cljs.analyzer$ns_side_effects$fn__9152 invoke analyzer.cljc 2525]
+  [cljs.analyzer$ns_side_effects invoke analyzer.cljc 2524]
+  [cljs.analyzer$analyze_STAR_$fn__9200 invoke analyzer.cljc 2597]
+  [clojure.lang.PersistentVector reduce PersistentVector.java 333]
+  [clojure.core$reduce invoke core.clj 6518]
+  [cljs.analyzer$analyze_STAR_ invoke analyzer.cljc 2597]
+  [cljs.analyzer$analyze invoke analyzer.cljc 2612]
+  [cljs.compiler$emit_source invoke compiler.cljc 1237]
+  [cljs.compiler$compile_file_STAR_$fn__10656 invoke compiler.cljc 1288]
+  [cljs.compiler$with_core_cljs invoke compiler.cljc 1152]
+  [cljs.compiler$compile_file_STAR_ invoke compiler.cljc 1277]
+  [cljs.compiler$compile_file$fn__10679 invoke compiler.cljc 1357]
+  [cljs.compiler$compile_file invoke compiler.cljc 1336]
+  [cljs.closure$compile_file invoke closure.clj 437]
+  [cljs.closure$eval12444$fn__12445 invoke closure.clj 504]
+  [cljs.closure$eval12380$fn__12381$G__12369__12388 invoke closure.clj 394]
+  [cljs.closure$compile_task$fn__12534 invoke closure.clj 778]
+  [cljs.closure$compile_task invoke closure.clj 776]
+  [cljs.closure$parallel_compile_sources$fn__12540 invoke closure.clj 806]
+  [clojure.lang.AFn applyToHelper AFn.java 152]
+  [clojure.lang.AFn applyTo AFn.java 144]
+  [clojure.core$apply invoke core.clj 630]
+  [clojure.core$with_bindings_STAR_ doInvoke core.clj 1868]
+  [clojure.lang.RestFn invoke RestFn.java 425]
+  [clojure.lang.AFn applyToHelper AFn.java 156]
+  [clojure.lang.RestFn applyTo RestFn.java 132]
+  [clojure.core$apply invoke core.clj 634]
+  [clojure.core$bound_fn_STAR_$fn__4439 doInvoke core.clj 1890]
+  [clojure.lang.RestFn invoke RestFn.java 397]
+  [clojure.lang.AFn run AFn.java 22]
+  [java.util.concurrent.ThreadPoolExecutor runWorker ThreadPoolExecutor.java 1142]
+  [java.util.concurrent.ThreadPoolExecutor$Worker run ThreadPoolExecutor.java 617]
+  [java.lang.Thread run Thread.java 745]]}
+Compile sources, elapsed time: 1381.085783 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 1.54 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.routing/reconciler at line 13 src/cljs/am/routing.cljs
+#error {
+ :cause Could not locate am/macros__init.class or am/macros.clj on classpath.
+ :via
+ [{:type clojure.lang.ExceptionInfo
+   :message failed compiling file:src/cljs/am/core.cljs
+   :data {:file #object[java.io.File 0x4e1ab004 src/cljs/am/core.cljs]}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type clojure.lang.ExceptionInfo
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath. in file src/cljs/am/core.cljs
+   :data {:tag :cljs/analysis-error}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type java.io.FileNotFoundException
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath.
+   :at [clojure.lang.RT load RT.java 449]}]
+ :trace
+ [[clojure.lang.RT load RT.java 449]
+  [clojure.lang.RT load RT.java 412]
+  [clojure.core$load$fn__5448 invoke core.clj 5866]
+  [clojure.core$load doInvoke core.clj 5865]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [clojure.core$load_one invoke core.clj 5671]
+  [clojure.core$load_lib$fn__5397 invoke core.clj 5711]
+  [clojure.core$load_lib doInvoke core.clj 5710]
+  [clojure.lang.RestFn applyTo RestFn.java 142]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$load_libs doInvoke core.clj 5749]
+  [clojure.lang.RestFn applyTo RestFn.java 137]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$require doInvoke core.clj 5832]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [cljs.analyzer$ns_side_effects$fn__9152 invoke analyzer.cljc 2525]
+  [cljs.analyzer$ns_side_effects invoke analyzer.cljc 2524]
+  [cljs.analyzer$analyze_STAR_$fn__9200 invoke analyzer.cljc 2597]
+  [clojure.lang.PersistentVector reduce PersistentVector.java 333]
+  [clojure.core$reduce invoke core.clj 6518]
+  [cljs.analyzer$analyze_STAR_ invoke analyzer.cljc 2597]
+  [cljs.analyzer$analyze invoke analyzer.cljc 2612]
+  [cljs.compiler$emit_source invoke compiler.cljc 1237]
+  [cljs.compiler$compile_file_STAR_$fn__10656 invoke compiler.cljc 1288]
+  [cljs.compiler$with_core_cljs invoke compiler.cljc 1152]
+  [cljs.compiler$compile_file_STAR_ invoke compiler.cljc 1277]
+  [cljs.compiler$compile_file$fn__10679 invoke compiler.cljc 1357]
+  [cljs.compiler$compile_file invoke compiler.cljc 1336]
+  [cljs.closure$compile_file invoke closure.clj 437]
+  [cljs.closure$eval12444$fn__12445 invoke closure.clj 504]
+  [cljs.closure$eval12380$fn__12381$G__12369__12388 invoke closure.clj 394]
+  [cljs.closure$compile_task$fn__12534 invoke closure.clj 778]
+  [cljs.closure$compile_task invoke closure.clj 776]
+  [cljs.closure$parallel_compile_sources$fn__12540 invoke closure.clj 806]
+  [clojure.lang.AFn applyToHelper AFn.java 152]
+  [clojure.lang.AFn applyTo AFn.java 144]
+  [clojure.core$apply invoke core.clj 630]
+  [clojure.core$with_bindings_STAR_ doInvoke core.clj 1868]
+  [clojure.lang.RestFn invoke RestFn.java 425]
+  [clojure.lang.AFn applyToHelper AFn.java 156]
+  [clojure.lang.RestFn applyTo RestFn.java 132]
+  [clojure.core$apply invoke core.clj 634]
+  [clojure.core$bound_fn_STAR_$fn__4439 doInvoke core.clj 1890]
+  [clojure.lang.RestFn invoke RestFn.java 397]
+  [clojure.lang.AFn run AFn.java 22]
+  [java.util.concurrent.ThreadPoolExecutor runWorker ThreadPoolExecutor.java 1142]
+  [java.util.concurrent.ThreadPoolExecutor$Worker run ThreadPoolExecutor.java 617]
+  [java.lang.Thread run Thread.java 745]]}
+Compile sources, elapsed time: 782.429478 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.922 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 3 src/cljs/am/reconciler.cljs
+WARNING: Use of undeclared Var om/reconciler at line 3 src/cljs/am/reconciler.cljs
+WARNING: Use of undeclared Var am.reconciler/state at line 3 src/cljs/am/reconciler.cljs
+WARNING: Use of undeclared Var am.reconciler/parser at line 4 src/cljs/am/reconciler.cljs
+WARNING: Use of undeclared Var am.reconciler/post-query at line 5 src/cljs/am/reconciler.cljs
+#error {
+ :cause Could not locate am/macros__init.class or am/macros.clj on classpath.
+ :via
+ [{:type clojure.lang.ExceptionInfo
+   :message failed compiling file:src/cljs/am/core.cljs
+   :data {:file #object[java.io.File 0x1eceb0b4 src/cljs/am/core.cljs]}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type clojure.lang.ExceptionInfo
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath. in file src/cljs/am/core.cljs
+   :data {:tag :cljs/analysis-error}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type java.io.FileNotFoundException
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath.
+   :at [clojure.lang.RT load RT.java 449]}]
+ :trace
+ [[clojure.lang.RT load RT.java 449]
+  [clojure.lang.RT load RT.java 412]
+  [clojure.core$load$fn__5448 invoke core.clj 5866]
+  [clojure.core$load doInvoke core.clj 5865]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [clojure.core$load_one invoke core.clj 5671]
+  [clojure.core$load_lib$fn__5397 invoke core.clj 5711]
+  [clojure.core$load_lib doInvoke core.clj 5710]
+  [clojure.lang.RestFn applyTo RestFn.java 142]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$load_libs doInvoke core.clj 5749]
+  [clojure.lang.RestFn applyTo RestFn.java 137]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$require doInvoke core.clj 5832]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [cljs.analyzer$ns_side_effects$fn__9152 invoke analyzer.cljc 2525]
+  [cljs.analyzer$ns_side_effects invoke analyzer.cljc 2524]
+  [cljs.analyzer$analyze_STAR_$fn__9200 invoke analyzer.cljc 2597]
+  [clojure.lang.PersistentVector reduce PersistentVector.java 333]
+  [clojure.core$reduce invoke core.clj 6518]
+  [cljs.analyzer$analyze_STAR_ invoke analyzer.cljc 2597]
+  [cljs.analyzer$analyze invoke analyzer.cljc 2612]
+  [cljs.compiler$emit_source invoke compiler.cljc 1237]
+  [cljs.compiler$compile_file_STAR_$fn__10656 invoke compiler.cljc 1288]
+  [cljs.compiler$with_core_cljs invoke compiler.cljc 1152]
+  [cljs.compiler$compile_file_STAR_ invoke compiler.cljc 1277]
+  [cljs.compiler$compile_file$fn__10679 invoke compiler.cljc 1357]
+  [cljs.compiler$compile_file invoke compiler.cljc 1336]
+  [cljs.closure$compile_file invoke closure.clj 437]
+  [cljs.closure$eval12444$fn__12445 invoke closure.clj 504]
+  [cljs.closure$eval12380$fn__12381$G__12369__12388 invoke closure.clj 394]
+  [cljs.closure$compile_task$fn__12534 invoke closure.clj 778]
+  [cljs.closure$compile_task invoke closure.clj 776]
+  [cljs.closure$parallel_compile_sources$fn__12540 invoke closure.clj 806]
+  [clojure.lang.AFn applyToHelper AFn.java 152]
+  [clojure.lang.AFn applyTo AFn.java 144]
+  [clojure.core$apply invoke core.clj 630]
+  [clojure.core$with_bindings_STAR_ doInvoke core.clj 1868]
+  [clojure.lang.RestFn invoke RestFn.java 425]
+  [clojure.lang.AFn applyToHelper AFn.java 156]
+  [clojure.lang.RestFn applyTo RestFn.java 132]
+  [clojure.core$apply invoke core.clj 634]
+  [clojure.core$bound_fn_STAR_$fn__4439 doInvoke core.clj 1890]
+  [clojure.lang.RestFn invoke RestFn.java 397]
+  [clojure.lang.AFn run AFn.java 22]
+  [java.util.concurrent.ThreadPoolExecutor runWorker ThreadPoolExecutor.java 1142]
+  [java.util.concurrent.ThreadPoolExecutor$Worker run ThreadPoolExecutor.java 617]
+  [java.lang.Thread run Thread.java 745]]}
+Compile sources, elapsed time: 152.001271 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/reconciler.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.318 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 6 src/cljs/am/reconciler.cljs
+WARNING: Use of undeclared Var om/reconciler at line 6 src/cljs/am/reconciler.cljs
+#error {
+ :cause Could not locate am/macros__init.class or am/macros.clj on classpath.
+ :via
+ [{:type clojure.lang.ExceptionInfo
+   :message failed compiling file:src/cljs/am/core.cljs
+   :data {:file #object[java.io.File 0x17a2bdb3 src/cljs/am/core.cljs]}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type clojure.lang.ExceptionInfo
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath. in file src/cljs/am/core.cljs
+   :data {:tag :cljs/analysis-error}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type java.io.FileNotFoundException
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath.
+   :at [clojure.lang.RT load RT.java 449]}]
+ :trace
+ [[clojure.lang.RT load RT.java 449]
+  [clojure.lang.RT load RT.java 412]
+  [clojure.core$load$fn__5448 invoke core.clj 5866]
+  [clojure.core$load doInvoke core.clj 5865]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [clojure.core$load_one invoke core.clj 5671]
+  [clojure.core$load_lib$fn__5397 invoke core.clj 5711]
+  [clojure.core$load_lib doInvoke core.clj 5710]
+  [clojure.lang.RestFn applyTo RestFn.java 142]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$load_libs doInvoke core.clj 5749]
+  [clojure.lang.RestFn applyTo RestFn.java 137]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$require doInvoke core.clj 5832]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [cljs.analyzer$ns_side_effects$fn__9152 invoke analyzer.cljc 2525]
+  [cljs.analyzer$ns_side_effects invoke analyzer.cljc 2524]
+  [cljs.analyzer$analyze_STAR_$fn__9200 invoke analyzer.cljc 2597]
+  [clojure.lang.PersistentVector reduce PersistentVector.java 333]
+  [clojure.core$reduce invoke core.clj 6518]
+  [cljs.analyzer$analyze_STAR_ invoke analyzer.cljc 2597]
+  [cljs.analyzer$analyze invoke analyzer.cljc 2612]
+  [cljs.compiler$emit_source invoke compiler.cljc 1237]
+  [cljs.compiler$compile_file_STAR_$fn__10656 invoke compiler.cljc 1288]
+  [cljs.compiler$with_core_cljs invoke compiler.cljc 1152]
+  [cljs.compiler$compile_file_STAR_ invoke compiler.cljc 1277]
+  [cljs.compiler$compile_file$fn__10679 invoke compiler.cljc 1357]
+  [cljs.compiler$compile_file invoke compiler.cljc 1336]
+  [cljs.closure$compile_file invoke closure.clj 437]
+  [cljs.closure$eval12444$fn__12445 invoke closure.clj 504]
+  [cljs.closure$eval12380$fn__12381$G__12369__12388 invoke closure.clj 394]
+  [cljs.closure$compile_task$fn__12534 invoke closure.clj 778]
+  [cljs.closure$compile_task invoke closure.clj 776]
+  [cljs.closure$parallel_compile_sources$fn__12540 invoke closure.clj 806]
+  [clojure.lang.AFn applyToHelper AFn.java 152]
+  [clojure.lang.AFn applyTo AFn.java 144]
+  [clojure.core$apply invoke core.clj 630]
+  [clojure.core$with_bindings_STAR_ doInvoke core.clj 1868]
+  [clojure.lang.RestFn invoke RestFn.java 425]
+  [clojure.lang.AFn applyToHelper AFn.java 156]
+  [clojure.lang.RestFn applyTo RestFn.java 132]
+  [clojure.core$apply invoke core.clj 634]
+  [clojure.core$bound_fn_STAR_$fn__4439 doInvoke core.clj 1890]
+  [clojure.lang.RestFn invoke RestFn.java 397]
+  [clojure.lang.AFn run AFn.java 22]
+  [java.util.concurrent.ThreadPoolExecutor runWorker ThreadPoolExecutor.java 1142]
+  [java.util.concurrent.ThreadPoolExecutor$Worker run ThreadPoolExecutor.java 617]
+  [java.lang.Thread run Thread.java 745]]}
+Compile sources, elapsed time: 142.251765 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/reconciler.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.399 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 6 src/cljs/am/reconciler.cljs
+WARNING: Use of undeclared Var om/reconciler at line 6 src/cljs/am/reconciler.cljs
+#error {
+ :cause Could not locate am/macros__init.class or am/macros.clj on classpath.
+ :via
+ [{:type clojure.lang.ExceptionInfo
+   :message failed compiling file:src/cljs/am/core.cljs
+   :data {:file #object[java.io.File 0x192dc879 src/cljs/am/core.cljs]}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type clojure.lang.ExceptionInfo
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath. in file src/cljs/am/core.cljs
+   :data {:tag :cljs/analysis-error}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type java.io.FileNotFoundException
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath.
+   :at [clojure.lang.RT load RT.java 449]}]
+ :trace
+ [[clojure.lang.RT load RT.java 449]
+  [clojure.lang.RT load RT.java 412]
+  [clojure.core$load$fn__5448 invoke core.clj 5866]
+  [clojure.core$load doInvoke core.clj 5865]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [clojure.core$load_one invoke core.clj 5671]
+  [clojure.core$load_lib$fn__5397 invoke core.clj 5711]
+  [clojure.core$load_lib doInvoke core.clj 5710]
+  [clojure.lang.RestFn applyTo RestFn.java 142]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$load_libs doInvoke core.clj 5749]
+  [clojure.lang.RestFn applyTo RestFn.java 137]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$require doInvoke core.clj 5832]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [cljs.analyzer$ns_side_effects$fn__9152 invoke analyzer.cljc 2525]
+  [cljs.analyzer$ns_side_effects invoke analyzer.cljc 2524]
+  [cljs.analyzer$analyze_STAR_$fn__9200 invoke analyzer.cljc 2597]
+  [clojure.lang.PersistentVector reduce PersistentVector.java 333]
+  [clojure.core$reduce invoke core.clj 6518]
+  [cljs.analyzer$analyze_STAR_ invoke analyzer.cljc 2597]
+  [cljs.analyzer$analyze invoke analyzer.cljc 2612]
+  [cljs.compiler$emit_source invoke compiler.cljc 1237]
+  [cljs.compiler$compile_file_STAR_$fn__10656 invoke compiler.cljc 1288]
+  [cljs.compiler$with_core_cljs invoke compiler.cljc 1152]
+  [cljs.compiler$compile_file_STAR_ invoke compiler.cljc 1277]
+  [cljs.compiler$compile_file$fn__10679 invoke compiler.cljc 1357]
+  [cljs.compiler$compile_file invoke compiler.cljc 1336]
+  [cljs.closure$compile_file invoke closure.clj 437]
+  [cljs.closure$eval12444$fn__12445 invoke closure.clj 504]
+  [cljs.closure$eval12380$fn__12381$G__12369__12388 invoke closure.clj 394]
+  [cljs.closure$compile_task$fn__12534 invoke closure.clj 778]
+  [cljs.closure$compile_task invoke closure.clj 776]
+  [cljs.closure$parallel_compile_sources$fn__12540 invoke closure.clj 806]
+  [clojure.lang.AFn applyToHelper AFn.java 152]
+  [clojure.lang.AFn applyTo AFn.java 144]
+  [clojure.core$apply invoke core.clj 630]
+  [clojure.core$with_bindings_STAR_ doInvoke core.clj 1868]
+  [clojure.lang.RestFn invoke RestFn.java 425]
+  [clojure.lang.AFn applyToHelper AFn.java 156]
+  [clojure.lang.RestFn applyTo RestFn.java 132]
+  [clojure.core$apply invoke core.clj 634]
+  [clojure.core$bound_fn_STAR_$fn__4439 doInvoke core.clj 1890]
+  [clojure.lang.RestFn invoke RestFn.java 397]
+  [clojure.lang.AFn run AFn.java 22]
+  [java.util.concurrent.ThreadPoolExecutor runWorker ThreadPoolExecutor.java 1142]
+  [java.util.concurrent.ThreadPoolExecutor$Worker run ThreadPoolExecutor.java 617]
+  [java.lang.Thread run Thread.java 745]]}
+Compile sources, elapsed time: 101.612914 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/reconciler.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.288 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+#error {
+ :cause Could not locate am/macros__init.class or am/macros.clj on classpath.
+ :via
+ [{:type clojure.lang.ExceptionInfo
+   :message failed compiling file:src/cljs/am/core.cljs
+   :data {:file #object[java.io.File 0x45a65f88 src/cljs/am/core.cljs]}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type clojure.lang.ExceptionInfo
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath. in file src/cljs/am/core.cljs
+   :data {:tag :cljs/analysis-error}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type java.io.FileNotFoundException
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath.
+   :at [clojure.lang.RT load RT.java 449]}]
+ :trace
+ [[clojure.lang.RT load RT.java 449]
+  [clojure.lang.RT load RT.java 412]
+  [clojure.core$load$fn__5448 invoke core.clj 5866]
+  [clojure.core$load doInvoke core.clj 5865]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [clojure.core$load_one invoke core.clj 5671]
+  [clojure.core$load_lib$fn__5397 invoke core.clj 5711]
+  [clojure.core$load_lib doInvoke core.clj 5710]
+  [clojure.lang.RestFn applyTo RestFn.java 142]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$load_libs doInvoke core.clj 5749]
+  [clojure.lang.RestFn applyTo RestFn.java 137]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$require doInvoke core.clj 5832]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [cljs.analyzer$ns_side_effects$fn__9152 invoke analyzer.cljc 2525]
+  [cljs.analyzer$ns_side_effects invoke analyzer.cljc 2524]
+  [cljs.analyzer$analyze_STAR_$fn__9200 invoke analyzer.cljc 2597]
+  [clojure.lang.PersistentVector reduce PersistentVector.java 333]
+  [clojure.core$reduce invoke core.clj 6518]
+  [cljs.analyzer$analyze_STAR_ invoke analyzer.cljc 2597]
+  [cljs.analyzer$analyze invoke analyzer.cljc 2612]
+  [cljs.compiler$emit_source invoke compiler.cljc 1237]
+  [cljs.compiler$compile_file_STAR_$fn__10656 invoke compiler.cljc 1288]
+  [cljs.compiler$with_core_cljs invoke compiler.cljc 1152]
+  [cljs.compiler$compile_file_STAR_ invoke compiler.cljc 1277]
+  [cljs.compiler$compile_file$fn__10679 invoke compiler.cljc 1357]
+  [cljs.compiler$compile_file invoke compiler.cljc 1336]
+  [cljs.closure$compile_file invoke closure.clj 437]
+  [cljs.closure$eval12444$fn__12445 invoke closure.clj 504]
+  [cljs.closure$eval12380$fn__12381$G__12369__12388 invoke closure.clj 394]
+  [cljs.closure$compile_task$fn__12534 invoke closure.clj 778]
+  [cljs.closure$compile_task invoke closure.clj 776]
+  [cljs.closure$parallel_compile_sources$fn__12540 invoke closure.clj 806]
+  [clojure.lang.AFn applyToHelper AFn.java 152]
+  [clojure.lang.AFn applyTo AFn.java 144]
+  [clojure.core$apply invoke core.clj 630]
+  [clojure.core$with_bindings_STAR_ doInvoke core.clj 1868]
+  [clojure.lang.RestFn invoke RestFn.java 425]
+  [clojure.lang.AFn applyToHelper AFn.java 156]
+  [clojure.lang.RestFn applyTo RestFn.java 132]
+  [clojure.core$apply invoke core.clj 634]
+  [clojure.core$bound_fn_STAR_$fn__4439 doInvoke core.clj 1890]
+  [clojure.lang.RestFn invoke RestFn.java 397]
+  [clojure.lang.AFn run AFn.java 22]
+  [java.util.concurrent.ThreadPoolExecutor runWorker ThreadPoolExecutor.java 1142]
+  [java.util.concurrent.ThreadPoolExecutor$Worker run ThreadPoolExecutor.java 617]
+  [java.lang.Thread run Thread.java 745]]}
+Compile sources, elapsed time: 78.267676 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.199 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+#error {
+ :cause Could not locate am/macros__init.class or am/macros.clj on classpath.
+ :via
+ [{:type clojure.lang.ExceptionInfo
+   :message failed compiling file:src/cljs/am/core.cljs
+   :data {:file #object[java.io.File 0x76593261 src/cljs/am/core.cljs]}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type clojure.lang.ExceptionInfo
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath. in file src/cljs/am/core.cljs
+   :data {:tag :cljs/analysis-error}
+   :at [clojure.core$ex_info invoke core.clj 4593]}
+  {:type java.io.FileNotFoundException
+   :message Could not locate am/macros__init.class or am/macros.clj on classpath.
+   :at [clojure.lang.RT load RT.java 449]}]
+ :trace
+ [[clojure.lang.RT load RT.java 449]
+  [clojure.lang.RT load RT.java 412]
+  [clojure.core$load$fn__5448 invoke core.clj 5866]
+  [clojure.core$load doInvoke core.clj 5865]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [clojure.core$load_one invoke core.clj 5671]
+  [clojure.core$load_lib$fn__5397 invoke core.clj 5711]
+  [clojure.core$load_lib doInvoke core.clj 5710]
+  [clojure.lang.RestFn applyTo RestFn.java 142]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$load_libs doInvoke core.clj 5749]
+  [clojure.lang.RestFn applyTo RestFn.java 137]
+  [clojure.core$apply invoke core.clj 632]
+  [clojure.core$require doInvoke core.clj 5832]
+  [clojure.lang.RestFn invoke RestFn.java 408]
+  [cljs.analyzer$ns_side_effects$fn__9152 invoke analyzer.cljc 2525]
+  [cljs.analyzer$ns_side_effects invoke analyzer.cljc 2524]
+  [cljs.analyzer$analyze_STAR_$fn__9200 invoke analyzer.cljc 2597]
+  [clojure.lang.PersistentVector reduce PersistentVector.java 333]
+  [clojure.core$reduce invoke core.clj 6518]
+  [cljs.analyzer$analyze_STAR_ invoke analyzer.cljc 2597]
+  [cljs.analyzer$analyze invoke analyzer.cljc 2612]
+  [cljs.compiler$emit_source invoke compiler.cljc 1237]
+  [cljs.compiler$compile_file_STAR_$fn__10656 invoke compiler.cljc 1288]
+  [cljs.compiler$with_core_cljs invoke compiler.cljc 1152]
+  [cljs.compiler$compile_file_STAR_ invoke compiler.cljc 1277]
+  [cljs.compiler$compile_file$fn__10679 invoke compiler.cljc 1357]
+  [cljs.compiler$compile_file invoke compiler.cljc 1336]
+  [cljs.closure$compile_file invoke closure.clj 437]
+  [cljs.closure$eval12444$fn__12445 invoke closure.clj 504]
+  [cljs.closure$eval12380$fn__12381$G__12369__12388 invoke closure.clj 394]
+  [cljs.closure$compile_task$fn__12534 invoke closure.clj 778]
+  [cljs.closure$compile_task invoke closure.clj 776]
+  [cljs.closure$parallel_compile_sources$fn__12540 invoke closure.clj 806]
+  [clojure.lang.AFn applyToHelper AFn.java 152]
+  [clojure.lang.AFn applyTo AFn.java 144]
+  [clojure.core$apply invoke core.clj 630]
+  [clojure.core$with_bindings_STAR_ doInvoke core.clj 1868]
+  [clojure.lang.RestFn invoke RestFn.java 425]
+  [clojure.lang.AFn applyToHelper AFn.java 156]
+  [clojure.lang.RestFn applyTo RestFn.java 132]
+  [clojure.core$apply invoke core.clj 634]
+  [clojure.core$bound_fn_STAR_$fn__4439 doInvoke core.clj 1890]
+  [clojure.lang.RestFn invoke RestFn.java 397]
+  [clojure.lang.AFn run AFn.java 22]
+  [java.util.concurrent.ThreadPoolExecutor runWorker ThreadPoolExecutor.java 1142]
+  [java.util.concurrent.ThreadPoolExecutor$Worker run ThreadPoolExecutor.java 617]
+  [java.lang.Thread run Thread.java 745]]}
+Compile sources, elapsed time: 120.406406 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 103.821772 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.219 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 135.766077 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/am.js" failed.
+[0mclojure.lang.ExceptionInfo: Library name must be specified as a symbol in :require / :require-macros; offending spec: [(quote am.core)] at line 1 target/figwheel_temp/dev/figwheel/connect.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:576)
+    cljs.analyzer$error.invoke (analyzer.cljc:574)
+    cljs.analyzer$basic_validate_ns_spec.invoke (analyzer.cljc:1705)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1751)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invoke (core.clj:636)
+    clojure.core$partial$fn__4533.doInvoke (core.clj:2512)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$reduce1.invoke (core.clj:909)
+    clojure.core$reduce1.invoke (core.clj:900)
+    clojure.core$merge_with.doInvoke (core.clj:2936)
+    clojure.lang.RestFn.applyTo (RestFn.java:139)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval1756$fn__1758$fn__1763.invoke (analyzer.cljc:1938)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval1756$fn__1758.invoke (analyzer.cljc:1921)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.083 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 128.487097 msecs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.504 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 150.764876 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/reconciler.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.355 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 157.010135 msecs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.376 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 131.461006 msecs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.343 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 112.144942 msecs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.275 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 189.970415 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.373 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 213.309964 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.403 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 222.00316 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.42 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 128.042412 msecs
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.28 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 178.005491 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.358 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 225.469061 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.402 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 221.021532 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.434 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 112.783747 msecs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 195.207733 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.426 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 194.775703 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.363 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 211.107687 msecs
+notifying browser that file changed:  out/am/components/promotion_item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.337 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 171.367496 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.312 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 103.566049 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.253 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 144.985025 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.304 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 135.470598 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 95.640825 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/routing.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.221 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 144.125822 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 171.357764 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.325 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 154.175699 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 158.198558 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.31 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 148.409871 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.287 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 137.955511 msecs
+notifying browser that file changed:  out/am/components/promotion_item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.266 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 116.092581 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.225 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 148.26946 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.234 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 127.369282 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.239 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.components.app/component at line 36 /home/andre/Projects/ClojureScript/am-server/src/cljs/am/components/app.cljs
+Compile sources, elapsed time: 178.398695 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.304 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 127.63596 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 148.373122 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 175.663753 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.292 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 137.874012 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.261 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 151.343213 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.316 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 135.854575 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.288 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 125.876461 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.246 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 146.466379 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.284 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 150.447954 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 216.561714 msecs
+notifying browser that file changed:  out/am/components/promotion_item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.343 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 141.389791 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 82.814327 msecs
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 140.399037 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.components.app/app-template at line 17 /home/andre/Projects/ClojureScript/am-server/src/cljs/am/components/app.cljs
+Compile sources, elapsed time: 109.825873 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.209 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.components.app/app-template at line 18 /home/andre/Projects/ClojureScript/am-server/src/cljs/am/components/app.cljs
+Compile sources, elapsed time: 120.332278 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.243 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 113.474686 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.206 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 125.04317 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.211 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 136.666108 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.233 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 124.715212 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.238 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 110.295982 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 107.368517 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.218 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 133.353278 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 109.549471 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.235 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 155.0818 msecs
+notifying browser that file changed:  out/am/components/promotion_item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 171.83048 msecs
+notifying browser that file changed:  out/am/components/promotion_item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.297 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.components.app/app-template at line 20 /home/andre/Projects/ClojureScript/am-server/src/cljs/am/components/app.cljs
+Compile sources, elapsed time: 136.526015 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.232 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 137.763805 msecs
+notifying browser that file changed:  out/am/components/app.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.241 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 130.689862 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.228 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 93.531656 msecs
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.201 seconds.[0m
