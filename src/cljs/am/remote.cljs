@@ -1,4 +1,5 @@
 (ns am.remote
+  (:require-macros [am.macros :refer [log]])
   (:require [cognitect.transit :as transit])
   (:import [goog.net XhrIo]))
 
@@ -8,7 +9,7 @@
            (fn [e]
              (let [transit-response (-> e (.-target) (.getResponseText))
                    response (transit/read (transit/reader :json) transit-response)]
-               (println (str "[REMOTE] " remote " -> " response))
+               (log :info "[REMOTE] " remote " -> " response)
                (cb response)))
            "POST"
            (transit/write (transit/writer :json) remote)

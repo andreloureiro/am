@@ -1,4 +1,5 @@
 (ns am.parser
+  (:require-macros [am.macros :refer [log]])
   (:require [om.next :as om]))
 
 
@@ -19,12 +20,16 @@
   (let [st @state]
     {:value (get st k)}))
 
+(defmethod readf :app/promotion-form
+  [{:keys [state]} k _]
+  (let [st @state]
+    {:value (get st k)}))
+
 (defmethod readf :promotion/list
   [{:keys [state query ast]} k _]
   (let [st @state]
-    (merge
-     {:value (om/db->tree query (get st k) st)}
-     {:remote ast})
+    {:value (om/db->tree query (get st k) st)
+     :remote true}
     ))
 
 (defmethod readf :promotion/by-id
@@ -47,6 +52,30 @@
 (defmethod mutate 'route/activate
   [{:keys [state]} k {:keys [to]}]
   {:action (swap! state assoc :app/active-route to)})
+
+(defmethod mutate 'form/update-field
+  [{:keys [state]} k {:keys [form key value] :as params}]
+  {:value {:keys [:app/promotion-form]}
+   :action #(swap! state assoc-in [form key] value)})
+
+(defn add-promotion [st]
+  (let [ref [:promotion/by-id 3]
+        promo-item {:id "ghi789" :name "andre" :hashtag "#ht"}]
+    (-> st
+        (assoc-in ref promo-item)
+        (update :app/promotion-list conj ref)
+        )))
+
+(defmethod mutate 'form/add-promotion
+  [{:keys [state] :as env} _ _]
+  {:value {:keys [:app/promotion-list]}
+   :action (fn []
+             (let [ref [:promotion/by-id "ghi789"]
+                   promo-item {:id "ghi789" :name "andre" :hashtag "#ht"}]
+               (swap! state (fn [st]
+                              (-> st
+                                  (assoc-in ref promo-item)
+                                  (update :promotion/list conj ref))))))})
 
 (defmethod mutate 'app/testing
   [{:keys [state]} k p]

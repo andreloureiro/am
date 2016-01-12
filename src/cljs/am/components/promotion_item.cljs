@@ -1,4 +1,5 @@
 (ns am.components.promotion-item
+  (:require-macros [am.macros :refer [log]])
   (:require [om.next :as om :refer-macros [defui]]
             [om.dom :as dom]))
 
@@ -13,7 +14,7 @@
   Object
   (render [this]
           (let [{:keys [id name hashtag]} (om/props this)]
-            (println "[RENDER] PromotionItem" id)
+            (log :info "[RENDER] PromotionItem" id)
             (dom/li #js {:key id} (str name " - " hashtag)))))
 
 (def promotion-item (om/factory PromotionItem {:keyfn :id}))

@@ -2,16 +2,18 @@
   (:require-macros [am.macros :refer [print-time]])
   (:require [am.components.app :refer [App]]
             [om.next :as om]
+            [devtools.core :as devtools]
             [am.reconciler :refer [reconciler]]))
 
+
 (enable-console-print!)
+(devtools/install!)
 (println "AM")
 
-(defn mount! []
-  (print-time "AM Root"
-              (om/add-root!
-               reconciler
-               App
-               (.getElementById js/document "root"))))
 
-(mount!)
+(js/console.time "App")
+(om/add-root!
+ reconciler
+ App
+ (.getElementById js/document "root"))
+(js/console.timeEnd "App")
