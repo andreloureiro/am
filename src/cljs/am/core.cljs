@@ -3,7 +3,8 @@
   (:require [am.components.app :refer [App]]
             [om.next :as om]
             [devtools.core :as devtools]
-            [am.reconciler :refer [reconciler]]))
+            [am.reconciler :refer [reconciler]]
+            [cljsjs.material]))
 
 
 (enable-console-print!)
