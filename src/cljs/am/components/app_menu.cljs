@@ -22,7 +22,7 @@
      [:div.mdl-grid
       [:div.mdl-cell.mdl-cell--2-col
        [:ul.mdl-list (map menu-item menu)]]
-      [:div.mdl-cell.mdl-cell--8 child]
+      [:div.mdl-cell.mdl-cell--8-col child]
       [:div.mdl-cell.mdl-cell--2-col]]]]))
 
 (defui AppMenu

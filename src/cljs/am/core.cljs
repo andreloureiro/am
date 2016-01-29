@@ -11,7 +11,6 @@
 (devtools/install!)
 (println "AM")
 
-
 (js/console.time "App")
 (om/add-root!
  reconciler

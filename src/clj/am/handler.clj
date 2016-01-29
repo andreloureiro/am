@@ -1,13 +1,15 @@
 (ns am.handler
   (:require [bidi.ring :refer [make-handler]]
             [cognitect.transit :as transit]
+            [clojure.data.json :as json]
             [compojure.core :refer [defroutes GET POST ANY]]
             [compojure.route :as route]
             [com.stuartsierra.component :as component]
             [hiccup.core :as hiccup]
             [hiccup.page :refer [html5 include-js include-css]]
             [om.next.server :refer [parser]]
-            [org.httpkit.server :refer [run-server]]
+            [clj-http.client :as client]
+            [org.httpkit.server :as http :refer [run-server]]
             [ring.middleware.defaults :refer [wrap-defaults site-defaults]]
             [ring.middleware.logger :refer [wrap-with-logger]]
             [ring.middleware.transit :refer [wrap-transit-response wrap-transit-params]]
@@ -18,18 +20,38 @@
   (hiccup/html
    (html5
     [:head
-     [:title "oi"]
+     [:title "Marketplace"]
      [:meta {:charset "utf-8"}]
      [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
      [:meta {:name "viewport" :content "width=device-width, initial-scale=1, user-scalable=no, minimal-ui"}]
      (include-css "https://storage.googleapis.com/code.getmdl.io/1.0.6/material.indigo-pink.min.css")
      (include-js "https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js")
      (include-css "https://fonts.googleapis.com/icon?family=Material+Icons")
+     (include-css "/css/am.css")
      ]
     [:body
      [:div#root]
      (include-js "/js/material.js")
      (include-js "/js/am.js")
+     ])))
+
+(def devcards-template
+  (hiccup/html
+   (html5
+    [:head
+     [:title "Devcards"]
+     [:meta {:charset "utf-8"}]
+     [:meta {:http-equiv "X-UA-Compatible" :content "IE=edge"}]
+     [:meta {:name "viewport" :content "width=device-width, initial-scale=1, user-scalable=no, minimal-ui"}]
+     (include-css "https://storage.googleapis.com/code.getmdl.io/1.0.6/material.indigo-pink.min.css")
+     (include-js "https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js")
+     (include-css "https://fonts.googleapis.com/icon?family=Material+Icons")
+     (include-css "/css/am.css")
+     ]
+    [:body
+     [:div#root]
+     (include-js "/js/material.js")
+     (include-js "/js/devcards.js")
      ])))
 
 (def state {:promotion/list [{:id "abc123"
@@ -53,6 +75,12 @@
                                       :medium nil
                                       :big "http://placehold.it/200x200"}}]})
 
+(defn get-promotions []
+  (let [data (client/get "http://localhost:9123/promotions")
+        {:keys [status body]} data]
+    (if (= status 200)
+      (json/read-str body :key-fn keyword))))
+
 (defn filtered-props [m query]
   (into {}
         (map
@@ -67,8 +95,9 @@
 
 (defmethod readf :promotion/list
   [{:keys [state query]} k p]
-  (let [st @state]
-    {:value (query-result-coll (get st k) query)}))
+  (let [st @state
+        promotions (get-promotions)]
+    {:value promotions}))
 
 (defmethod readf :default
   [_ k _]
@@ -93,6 +122,7 @@
 (defroutes app-routes
   (GET "/query" req (generate-response req))
   (POST "/query" req (generate-response req))
+  (GET "/devcards" [] (-> (ok devcards-template) (content-type "text/html")))
   (route/resources "/")
   (ANY "*" [] (-> (ok layout-template) (content-type "text/html")))
   (route/not-found "Not Found"))

@@ -27,7 +27,9 @@
                  [sablono "0.5.3"]
                  [secretary "1.2.3"]
                  [ring.middleware.logger "0.5.0"]
-                 [cljsjs/material "1.0.6-0"]]
+                 [cljsjs/material "1.0.6-0"]
+                 [clj-http "2.0.1"]
+                 [devcards "0.2.1-5"]]
   :plugins [[lein-ring "0.9.7"]
             [lein-figwheel "0.5.0-2"]
             [lein-cljsbuild "1.1.2"]]
@@ -51,5 +53,14 @@
                            :compiler-stats true
                            :source-map true
                            :source-map-timestamp true
-                           }}]}
-  :figwheel {:nrepl-port 7878})
+                           }}
+               {:id "devcards"
+                :source-paths ["src/cljs"]
+                :figwheel {:devcards true}
+                :compiler {:main cards.core
+                           :asset-path "js/devcards_out"
+                           :output-to "resources/public/js/devcards.js"
+                           :output-dir "resources/public/js/devcards_out"
+                           :source-map-timestamp true}}]}
+  :figwheel {:nrepl-port 7878
+             :css-dirs ["resources/public/css"]})

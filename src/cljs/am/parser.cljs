@@ -29,7 +29,8 @@
 (defmethod readf :promotion/list
   [{:keys [state query ast]} k _]
   (let [st @state]
-    {:value (om/db->tree query (get st k) st)}))
+    {:value (om/db->tree query (get st k) st)
+     :remote true}))
 
 (defmethod readf :promotion/by-id
   [{:keys [state query]} k {:keys [id]}]

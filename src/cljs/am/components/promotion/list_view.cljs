@@ -14,8 +14,8 @@
             (log :info "[RENDER] PromotionListView" props)
             (html
              [:div
-              [:h2 "List View"]
-              [:ul (map promotion-item list)]]))))
+              [:h3 "Promoção"]
+              [:ul.am-list (map promotion-item list)]]))))
 
 
 (def promotion-list-view (om/factory PromotionListView))

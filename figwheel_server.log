@@ -14611,3 +14611,287 @@ notifying browser that file changed:  out/am/components/promotion/create_view.js
 Compile sources, elapsed time: 238.341688 msecs
 notifying browser that file changed:  out/am/components/promotion/form.js
 [32mSuccessfully compiled "resources/public/js/am.js" in 0.415 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 218.915745 msecs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.608 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 1126.73559 msecs
+notifying browser that file changed:  out/am/parser.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 1.377 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 462.720972 msecs
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.684 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 513.307917 msecs
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.725 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/cards/core.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.535 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/cards/core.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.656 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/cards/core.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.388 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/cards/core.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.364 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.963 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.828 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/devcards.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /home/andre/Projects/ClojureScript/am-server/src/cljs/am/components/promotion/item.cljs, line 25, column 36
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.208 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.749 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/cards/core.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.388 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/cards/core.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.433 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/promotion/list_view.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.54 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.566 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.523 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/promotion/list_view.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.375 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.544 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.523 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.515 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.46 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/cards/core.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/cards/core.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var cards.core/mock-promotion-list at line 19 src/cljs/cards/core.cljs
+notifying browser that file changed:  out/cards/core.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.336 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/cards/core.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.271 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 368.153309 msecs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.588 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 586.916691 msecs
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.76 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 484.890947 msecs
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.658 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 406.456252 msecs
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.583 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 138.383803 msecs
+notifying browser that file changed:  out/cards/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.338 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 144.976398 msecs
+notifying browser that file changed:  out/cards/core.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.31 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.513 seconds.[0m
+[0mCompiling "resources/public/js/devcards.js" from ["src/cljs"]...
+notifying browser that file changed:  out/am/components/app_menu.js
+[32mSuccessfully compiled "resources/public/js/devcards.js" in 0.378 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 265.232642 msecs
+notifying browser that file changed:  out/am/components/app_menu.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.394 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 388.983982 msecs
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.551 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 332.651009 msecs
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.473 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 320.548372 msecs
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.514 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 264.893038 msecs
+notifying browser that file changed:  out/am/components/promotion/list_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.398 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 280.739705 msecs
+notifying browser that file changed:  out/am/components/promotion/list_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.439 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 283.269634 msecs
+notifying browser that file changed:  out/am/components/promotion/list_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.409 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 249.673951 msecs
+notifying browser that file changed:  out/am/components/promotion/list_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.373 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 381.209669 msecs
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.525 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 357.308601 msecs
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.521 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 391.941881 msecs
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.541 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 859.701631 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 1.389 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 401.383222 msecs
+notifying browser that file changed:  out/am/state.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.541 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 284.806635 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.412 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 267.261375 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.457 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 262.946261 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.381 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 206.742232 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.333 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.components.promotion.unique-view/EDITAR at line 22 /home/andre/Projects/ClojureScript/am-server/src/cljs/am/components/promotion/unique_view.cljs
+Compile sources, elapsed time: 272.908175 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.419 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 285.242161 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.426 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 238.157228 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.359 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 224.072443 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.346 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 281.741507 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.402 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 253.266893 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.397 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var am.components.promotion.unique-view/thumb at line 18 /home/andre/Projects/ClojureScript/am-server/src/cljs/am/components/promotion/unique_view.cljs
+Compile sources, elapsed time: 234.87247 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.347 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 245.301682 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.367 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 250.74357 msecs
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.365 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 301.476641 msecs
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.45 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 277.412009 msecs
+notifying browser that file changed:  out/am/components/promotion/item.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.39 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 247.049154 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.377 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 249.693809 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.377 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 248.977017 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.374 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 228.283124 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.357 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 251.216963 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.378 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 221.58889 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.351 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 284.850112 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.426 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 221.79862 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.339 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 247.774592 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.369 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 227.081532 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.353 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 248.537787 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.361 seconds.[0m
+[0mCompiling "resources/public/js/am.js" from ["src/cljs"]...
+Compile sources, elapsed time: 247.882676 msecs
+notifying browser that file changed:  out/am/components/promotion/unique_view.js
+[32mSuccessfully compiled "resources/public/js/am.js" in 0.357 seconds.[0m
