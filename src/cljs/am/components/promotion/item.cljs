@@ -12,7 +12,7 @@
          `[:promotion/by-id ~id])
   static om/IQuery
   (query [this]
-         '[:id :name :hashtag :thumb])
+         '[:id :name :hashtag :thumb :startAt :endAt :showCard])
   Object
   (render [this]
           (let [{:keys [id name hashtag]} (om/props this)]

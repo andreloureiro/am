@@ -8,7 +8,7 @@
      (js/console.timeEnd ~label)
      ~@body))
 
-(def *debug-enabled* true)
+(def ^:dynamic *debug-enabled* true)
 
 (defmacro log
   [type & body]

@@ -2,9 +2,9 @@
   (:require [am.state :refer [state]]
             [am.parser :refer [parser]]
             [om.next :as om]
-            [am.remote :refer [post-query]]))
+            [am.remote :refer [remote-sk]]))
 
 (def reconciler (om/reconciler {:state state
                                 :parser parser
-                                :send (post-query "/query")
+                                :send remote-sk
                                 :remotes [:remote]}))
